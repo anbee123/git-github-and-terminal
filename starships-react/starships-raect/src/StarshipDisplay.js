@@ -1,9 +1,10 @@
-import React from "react";
+import React from "react"
+
 const StarshipDisplay = () => {
     return (
-        <div> 
-            starships name
-        </div>
+        <div> Test</div>
     )
 }
+
+
 export default StarshipDisplay;
